@@ -4,8 +4,8 @@
 Abaixo estão algumas das principais telas do sistema, demonstrando brevemente a funcionalidade do aplicativo SportFind.
 </p>
 
-![Tela 1](tela1.jpg)
+![Tela 1](tela1.png)
 
-![Tela 2](tela2.jpg)
+![Tela 2](tela2.png)
 
-![Tela 3](tela3.jpg)
+![Tela 3](tela3.png)
