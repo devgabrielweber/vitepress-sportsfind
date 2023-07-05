@@ -8,5 +8,5 @@ hero:
   actions:
     - theme: brand
       text: Visão Geral do Projeto
-      link: /visao_geral
+      link: /docs/visao_geral
 ---
