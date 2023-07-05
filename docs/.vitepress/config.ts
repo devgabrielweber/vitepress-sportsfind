@@ -5,6 +5,7 @@ export default defineConfig({
   lang: 'en-US',
   title: 'Documento de Visão - SportFind',
   description: 'Vite & Vue powered static site generator.',
+  base: '/vitepress-sportsfind',
 
   themeConfig: {
     nav: [],
